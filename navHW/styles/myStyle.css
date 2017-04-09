@@ -1,0 +1,73 @@
+﻿body {
+    direction: rtl;
+    background-color:white;
+    font-family:Calibri;
+  background-image:url(../sL2_856234.jpg);
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:1500px;   
+}
+
+
+h1{
+    text-align:center;
+    font-family:Calibri;
+     font-size:30px;
+     color:#581367;
+     margin:10px;
+}
+
+#container{
+ Width:960px;
+Margin:0 auto;
+} 
+
+h2{
+    clear:both;
+    margin:50px 0;
+}
+
+#nav1 ul {
+    list-style: none;
+    width: 600px; 
+    margin: 0 auto;
+}
+
+    #nav1 ul li {
+        display: inline-block;
+        float: right;
+    }
+
+        #nav1 ul li a {
+            display: block;
+            background-color: #941695;
+            color: #ffffff;
+            text-decoration: none;
+            text-align: center;
+            width: 150px;
+            height: 30px;
+            Padding-top: 20px;
+        }
+
+
+
+            #nav1 ul li a:hover {
+                background-color: #c173b6;
+            }
+
+            #nav1 ul li a:active {
+                background-color: #000000;
+            }
+
+
+        #nav1 ul li ul {
+            display: none;
+            position: absolute;
+        }
+
+        #nav1 ul li:hover ul {
+            display: block;
+            width: 120px;
+        }
+      
+    .
